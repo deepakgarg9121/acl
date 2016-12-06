@@ -1,0 +1,15 @@
+.panel-body{
+    min-height:600px !important;
+}
+
+.btn.btn-default{
+    background: #fff none repeat scroll 0 0;
+    color: #333;
+    font-weight: 500;
+}
+
+.btn-default.active, .btn-default:active, .btn-default:focus, .btn-default:hover, .open .dropdown-toggle.btn-default{
+    background:#ccc;
+    color: #333;
+    font-weight: 500;
+}

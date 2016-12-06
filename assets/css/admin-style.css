@@ -1,0 +1,9 @@
+#sortable {
+	margin-top:10px;
+}
+#sortable li{
+	border: 1px dashed #ccc;
+	margin-bottom:8px;
+	padding: 8px 10px;
+}
+
